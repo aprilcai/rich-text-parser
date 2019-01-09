@@ -1,0 +1,24 @@
+{
+  "name": "rich-text-parser",
+  "version": "0.0.1",
+  "description": "rich text parser",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/"
+  },
+  "keywords": [
+    "rich",
+    "text",
+    "parser",
+    "text-parser",
+    "rich-text",
+    "richtext",
+    "richtextparser"
+  ],
+  "author": "aprilcai",
+  "license": "MIT"
+}
