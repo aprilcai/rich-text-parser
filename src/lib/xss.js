@@ -8,7 +8,6 @@ let replaceMap = {
 
 function filterScriptTag(str) {
     return str.replace(/(<)(\/?script)(>)?/gi, function () {
-        console.log(arguments)
         var leftArr = arguments[1];
         var rightArr = arguments[3];
         var middle = arguments[2];
